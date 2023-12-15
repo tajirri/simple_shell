@@ -4,7 +4,9 @@
 /**
  * main - Prints first 50 Fibonacci numbers, starting with 1 and 2,
  *        separated by a comma followed by a space.
- *
+ *@sum: sum of fibonacci numbers
+ *@fib1: first fibonacci
+ *@fib2: second fibonacci
  * Return: Always 0.
  */
 int main(void)
